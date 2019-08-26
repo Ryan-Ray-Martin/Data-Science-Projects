@@ -92,45 +92,6 @@ BONUS 20/20
 [Comments: Great work!]
 ```
 
-
-### Quiz 1  [7.5/10]
-```
-1. 4/4
-2. 2/2
-3. 1.5/4 wrong values.
-
-[Comments: Please reivew the definition/formular of confidence]
-```
-
-### Quiz 2  [5/10]
-```
-1. 2/3 descriptive?
-2. 0/3 how does it misclassfiy when k is too small or too large?
-3a. 1/2 because the output is numeric
-3b. 2/2
-
-[Comments: Please review KNN algorithm for Q2.]
-```
-
-### Midterm  [62/100]
-```
-1. 5/10 Based on your explanation, the answer should be MAR.
-2. 3/10 The first principal component points vertically because it generates the greatest variance on the projection.
-3. 10/10
-4. 10/10
-5. 2/10 incorrect clustering
-6. 5/10 how to decide whether they are good or poor clusters based on silhouette coefficient?
-7. 4/10 incorrect calculations
-8. 5/10
-When k = 1, no instance in right set will be predicted wrongly.
-When k = 3, the point at (1, 0) will be predicted wrongly.
-
-9. 10/10
-10. 8/10 Do you need train/test split for the algorithm?
-
-[Comments: Please review the algorithms/concepts for Q2, Q5/7.]
-```
-
 ### Proposal  [95/100]
 ```
 I like that for your project you are exploring this topic. While there are many similarities 
