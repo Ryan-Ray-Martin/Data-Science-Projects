@@ -121,23 +121,3 @@ Looking forward to seeing what you come up with! Let us know if you need help pr
 the different portions of your work to make sure you have something that you're happy with 
 at the end. 
 ```
-
-### Final  [80.5/100]
-```
-1. 10/10
-2. 8.5/10
-3. 10/10 misclassification rate = 0.3
-
-4. 5/10 
-p(credit risk = good| cj) != p(good|100) * p(good|low) and p(good|100) = 1 and p(good|low) = 1/3
-p(credit risk = good| cj) = p(100|good) * p(low|good) *P(good) /P(cj)
-
-5. 1/10 expected to include calculations for all four possible splits 
-6. 6/10 stacking is better in the case
-7. 10/10
-8. 10/10
-9. 10/10
-10. 10/10
-
-[Comments: Great work!]
-```
